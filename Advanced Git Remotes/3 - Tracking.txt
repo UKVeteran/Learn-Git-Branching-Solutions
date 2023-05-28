@@ -1,0 +1,4 @@
+1) git checkout -b side o/main
+2) git commit
+3) git pull --rebase
+4) git push

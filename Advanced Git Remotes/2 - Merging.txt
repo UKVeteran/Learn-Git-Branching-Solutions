@@ -1,0 +1,6 @@
+1) git checkout main
+2) git pull
+3) git merge side1
+4) git merge side2
+5) git merge side3
+6) git push

@@ -1,0 +1,5 @@
+1) git rebase side1 side2
+2) git rebase side2 side3
+3) git rebase side3 main
+4) git pull --rebase
+5) git push

@@ -1,0 +1,2 @@
+1) git push origin :foo
+2) git fetch origin :bar

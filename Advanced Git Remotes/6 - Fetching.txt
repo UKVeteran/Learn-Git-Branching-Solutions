@@ -1,0 +1,4 @@
+1) git fetch origin main~1:foo
+2) git fetch origin foo:main
+3) git checkout foo
+4) git merge c6

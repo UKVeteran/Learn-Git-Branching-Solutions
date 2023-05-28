@@ -1,0 +1,2 @@
+1) git pull origin bar:foo
+2) git pull origin main:side

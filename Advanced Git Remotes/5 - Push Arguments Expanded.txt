@@ -1,0 +1,2 @@
+1) git push origin main~1:foo
+2) git push origin foo:main
