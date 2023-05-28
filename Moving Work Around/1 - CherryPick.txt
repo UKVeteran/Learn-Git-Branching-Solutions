@@ -1,0 +1,6 @@
+git cherry-pick <Commit1> <Commit2> <...>
+
+To complete this level, simply copy some work from the three branches shown into main. You can see which commits we want by looking at the goal visualization.
+
+Solution:
+1) git cherry-pick C3 C4 C7

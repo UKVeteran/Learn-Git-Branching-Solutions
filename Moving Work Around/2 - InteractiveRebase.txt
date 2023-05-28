@@ -1,0 +1,5 @@
+To finish this level, do an interactive rebase and achieve the order shown in the goal visualization. Remember you can always undo or reset to fix mistakes 
+
+Solution:
+1)git rebase -i main~4
+//Remove C2, move C5 up
