@@ -1,0 +1,7 @@
+ Let's rebase all the work from these branches onto main.
+
+Solution:
+1) git rebase main bugFix
+2) git rebase bugFix side
+3) git rebase side another
+4) git rebase another main
