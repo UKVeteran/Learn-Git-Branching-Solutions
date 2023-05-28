@@ -1,1 +1,1 @@
-# Learn-Git-Branching-Solutions
+Solutions to the problems available on Learn Git Branching.
