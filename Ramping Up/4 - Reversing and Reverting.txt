@@ -1,0 +1,6 @@
+To complete this level, reverse the most recent commit on both local and pushed. You will revert two commits total (one per branch).
+
+Solution:
+1) git reset local~1
+2) git checkout pushed
+3) git revert pushed

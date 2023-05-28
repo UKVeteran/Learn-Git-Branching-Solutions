@@ -1,0 +1,8 @@
+
+To complete this level, let's detach HEAD from bugFix and attach it to the commit instead.
+
+Specify this commit by its hash. The hash for each commit is displayed on the circle that represents the commit.
+
+
+Solution:
+1) git checkout C4
