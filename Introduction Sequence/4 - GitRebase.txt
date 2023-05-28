@@ -1,0 +1,12 @@
+Checkout a new branch named bugFix
+Commit once
+Go back to main and commit again
+Check out bugFix again and rebase onto main
+
+Solution:
+1)git checkout -b bugFix
+2)git commit
+3)git checkout main
+4)git commit
+5)git checkout bugFix
+6)git rebase main

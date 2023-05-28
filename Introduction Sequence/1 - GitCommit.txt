@@ -1,0 +1,6 @@
+
+Go ahead and try it out on your own! After this window closes, make two commits to complete the level.
+
+Solution:
+1) git commit
+2) git commit
