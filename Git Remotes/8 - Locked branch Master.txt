@@ -1,0 +1,3 @@
+1) git reset --hard o/main
+2) git checkout -b feature C2
+3) git push
