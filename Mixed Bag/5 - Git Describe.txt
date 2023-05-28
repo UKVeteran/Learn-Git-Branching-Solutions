@@ -1,0 +1,4 @@
+That's pretty much all there is to git describe! Try describing a few of the locations in this level to get a feel for the command.
+
+Solution:
+1) git commit

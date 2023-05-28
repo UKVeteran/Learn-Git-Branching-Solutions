@@ -1,0 +1,17 @@
+
+We will overcome this difficulty by doing the following:
+
+We will re-order the commits so the one we want to change is on top with git rebase -i
+We will git commit --amend to make the slight modification
+Then we will re-order the commits back to how they were previously with git rebase -i
+Finally, we will move main to this updated part of the tree to finish the level (via the method of your choosing)
+There are many ways to accomplish this overall goal (I see you eye-ing cherry-pick), and we will see more of them later, but for now let's focus on this technique. Lastly, pay attention to the goal state here -- since we move the commits twice, they both get an apostrophe appended. One more apostrophe is added for the commit we amend, which gives us the final form of the tree
+
+
+Solution:
+1) git rebase -i caption~2 --aboveAll
+REORDER
+2) git commit --amend
+3) git rebase -i caption~2 --aboveAll
+REORDER
+4) git branch -f main caption

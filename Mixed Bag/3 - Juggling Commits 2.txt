@@ -1,0 +1,7 @@
+So in this level, let's accomplish the same objective of amending C2 once but avoid using rebase -i.
+
+Solution:
+1) git checkout main
+2) git cherry-pick C2
+3) git commit --amend
+4) git cherry-pick C3

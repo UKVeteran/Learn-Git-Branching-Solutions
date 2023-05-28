@@ -1,0 +1,6 @@
+
+This is a later level so we will leave it up to you to decide which command you want to use, but in order to complete the level, make sure main receives the commit that bugFix references.
+
+Solution:
+1) git checkout main
+2) git cherry-pick C4

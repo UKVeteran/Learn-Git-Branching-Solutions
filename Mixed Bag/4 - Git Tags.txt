@@ -1,0 +1,6 @@
+For this level just create the tags in the goal visualization and then check v1 out. Notice how you go into detached HEAD state -- this is because you can't commit directly onto the v1 tag.
+
+Solution:
+1) git tag v0 C1
+2) git tag v1 C2
+3) git checkout C2
